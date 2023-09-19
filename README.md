@@ -16,7 +16,8 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto criado para o estudo de manipulação de dados em TXT, Excel e JSON - com leitura e escrita TXT e Excel com Apache POI e JSON com GSON.
+  Projeto criado para o estudo de manipulação de dados em TXT, Excel e JSON - com leitura e escrita TXT e Excel com Apache POI e JSON com GSON. <br>   
+  Foi feito juntamente com um curso, não foi feito sozinho.
  
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
